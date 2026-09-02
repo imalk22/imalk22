@@ -37,8 +37,8 @@ Cyber Security undergrad at Victoria University, Melbourne, based in Colombo, Sr
 ### Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imalk22&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imalk22&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=imalk22&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&bg_color=00000000" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=imalk22&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" />
 </p>
 
 <br>
