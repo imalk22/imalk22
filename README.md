@@ -38,4 +38,5 @@ Project Management · Team Coordination · Market Analysis · Social Media Marke
 ### 📫 Reach me
 
 - Email: imeshbizz@gmail.com
+- LinkedIn:linkedin.com/in/imesh-samintha/
 - Location: Colombo, Sri Lanka
