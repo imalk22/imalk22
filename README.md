@@ -1,36 +1,26 @@
-<div align="center">
+<img width="100%" height="4" src="https://img.shields.io/badge/-000000?style=flat-square"><br><br>
 
-# IMESH SAMINTHA
+**Imesh Samintha**
+NFT specialist · Marketer · Digital-studio founder
 
-### Building practical software and running an NFT / digital-marketing practice on the side.
+Cyber Security undergrad at Victoria University, Melbourne — based in Colombo, Sri Lanka. Freelance work on Fiverr (NFT projects, Facebook Ads, market analysis) alongside **Eroxii Digital Studio**, my own web/app studio. Currently moving further into **Business Analytics**.
 
-CS undergrad at Victoria University, Melbourne — graduating with a focus in Cyber Security, based in Colombo, Sri Lanka.
-Freelancer on Fiverr (NFT Projects · Facebook Ads · Market Analysis) and founder of **Eroxii Digital Studio**.
-Moving further into **Business Analytics**.
-
-[![Email](https://img.shields.io/badge/EMAIL-imeshbizz%40gmail.com-e74c3c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imeshbizz@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imesh-samintha-2b6a51214/)
-[![GitHub](https://img.shields.io/badge/GITHUB-imalk22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imalk22)
-
-</div>
+<a href="mailto:imeshbizz@gmail.com"><img src="https://img.shields.io/badge/-Email-e74c3c?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/imesh-samintha-2b6a51214/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/imalk22"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 <br>
 
-## What I Build
+## Focus areas
 
-```text
-NFT & DIGITAL     Generative NFT collections, trait-based art pipelines
-BUSINESS OPS      Inventory management, stock APIs, WhatsApp bot integrations
-TRADING TOOLS     Trade management platforms, daily P&L tracking systems
-MARKETING         Facebook Ads, social media campaigns, market analysis
-WEB PLATFORMS     Business management sites, booking systems, dashboards
-```
-
-I like shipping software that solves one real business problem well — clean interfaces, practical architecture, and enough marketing sense to know who it's actually built for.
+- **NFT & digital collectibles** — trait-based generative art pipelines, project specialist work
+- **Business systems** — inventory, stock APIs, WhatsApp bot integrations for small businesses
+- **Trading tools** — trade management platforms and daily P&L tracking
+- **Marketing** — Facebook Ads campaigns, social media strategy, market analysis
 
 <br>
 
-## Tech I Use
+## Tech I use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -98,8 +88,4 @@ A dedicated day-by-day trade log that turns trading performance into something m
 
 <br>
 
-<div align="center">
-
-*Open to freelance work in web development, NFT projects, and digital marketing.*
-
-</div>
+<sub>Open to freelance work in web development, NFT projects, and digital marketing.</sub>
