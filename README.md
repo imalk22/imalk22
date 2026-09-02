@@ -1,7 +1,7 @@
 <img width="100%" height="4" src="https://img.shields.io/badge/-000000?style=flat-square"><br><br>
 
 **Imesh Samintha**
-NFT specialist · Marketer · Digital-studio founder
+NFT specialist · Marketer · Digital-studio
 
 Cyber Security undergrad at Victoria University, Melbourne — based in Colombo, Sri Lanka. Freelance work on Fiverr (NFT projects, Facebook Ads, market analysis) alongside **Eroxii Digital Studio**, my own web/app studio. Currently moving further into **Business Analytics**.
 
