@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Imesh 👋
 
-<!--
-**imalk22/imalk22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cyber Security Undergraduate at Victoria University, Melbourne, Australia. Living in Colombo, Sri Lanka. Also active as a Fiverr freelancer — NFT project specialist, Facebook Ads, and market analysis — and founder of **Eroxii Digital Studio**, a freelance web/app development and branding studio. Looking to move further into **Business Analytics**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 What I do
+
+- **NFT Project Specialist** — Fiverr freelance work on NFT projects.
+- **Facebook Ads** — campaign setup and management for clients.
+- **Marketing** — social media marketing and campaign work.
+- **Market Analysis** — research and analysis work.
+- **Eroxii Digital Studio** — web development, POS systems, social media marketing, and branding.
+
+### 🎯 Where I'm headed
+
+Building toward **Business Analytics** — combining my cybersecurity/tech background with data-driven decision-making.
+
+### 🚀 Projects
+
+- **Zoo360** — AI-powered smart zoo app.
+- **Bitloom** — trading management platform.
+- **HDB** — company management, stock, and display site with WhatsApp bot integration.
+- **Gymnasium site** — gym management/booking website.
+- **NFT Generator** — script that assembles trait sets into a single generated image per NFT.
+- **Auracoat** — construction business management site with integrated systems.
+- **Daily Trading Tracker** — system for tracking daily trades and profit/loss.
+
+### 🤝 Group projects I've contributed to
+
+- **Project Ezekiel** — User Centric Behaviour Profiling System (university group project — contributor).
+- **PitLane / AutoServe** — marketing and e-commerce website for PitLane Software Pty Ltd, a fictional Australian vendor of AutoServe, a SaaS platform licensed by vehicle service centres, garages, and franchise operators (university group project — contributor).
+
+### 🛠️ Skills
+
+Project Management · Team Coordination · Market Analysis · Social Media Marketing · Business Analytics (learning)
+
+### 📫 Reach me
+
+- Email: imeshbizz@gmail.com
+- Location: Colombo, Sri Lanka
