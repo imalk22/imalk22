@@ -1,4 +1,5 @@
 <img width="100%" height="4" src="https://img.shields.io/badge/-000000?style=flat-square"><br><br>
+
 **Imesh Samintha**
 NFT specialist · Marketer · Digital-studio founder
 
@@ -29,6 +30,8 @@ Cyber Security undergrad at Victoria University, Melbourne — based in Colombo,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+![Facebook Ads](https://img.shields.io/badge/Facebook%20Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
 <br>
 
