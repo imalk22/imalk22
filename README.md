@@ -2,7 +2,7 @@
 
 **NFT specialist · Marketer · Digital-studio founder**
 
-Cyber Security undergrad at Victoria University, Melbourne — based in Colombo, Sri Lanka. Freelance work on Fiverr (NFT projects, Facebook Ads, market analysis) alongside **Eroxii Digital Studio**, my own web/app studio. Currently moving further into **Business Analytics**.
+Cyber Security undergrad at Victoria University, Melbourne — based in Colombo, Sri Lanka. Freelance work on Fiverr (NFT projects, Facebook Ads, market analysis) alongside **Eroxii Digital Studio**, my own studio. Currently moving further into **Business Analytics**.
 
 <a href="mailto:imeshbizz@gmail.com"><img src="https://img.shields.io/badge/-Email-e74c3c?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/imesh-samintha-2b6a51214/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
